@@ -22,6 +22,7 @@ infrarrojoDerecho  = infrarrojofc21(url.urlEndpoint, url.urlPrefix, 38, apiC.tok
 infrarrojoIzquierdo  = infrarrojofc21(url.urlEndpoint, url.urlPrefix, 40, apiC.token)
 ultrasonicoDelantero = ultraSonicoHRSR01(35, 37, url.urlEndpoint, url.urlPrefix)
 ultrasonicoTrasero = ultraSonicoHRSR01(23, 24, url.urlEndpoint, url.urlPrefix)
+print("Modificado desde github.com")
 print("Conecando...")
 
 DATAINFRARROJODERECHA = 0; 
